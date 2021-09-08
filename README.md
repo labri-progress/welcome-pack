@@ -5,6 +5,7 @@
   - Mailing list: [labri.progress-all@diff.u-bordeaux.fr](labri.progress-all@diff.u-bordeaux.fr)
   - Slack: [https://labri-progress.slack.com](https://labri-progress.slack.com)
   - Shared calendar: [SE or ProgResS??]()
+  - LaBRI's communication: [Rocket.Chat](https://rocket.labri.fr)
 
 ## Team events
 
