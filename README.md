@@ -8,11 +8,8 @@
 
 ## Events
   - The Progress Coffee: every other Thursday, 13:15-13:45 (contact: Thomas Degueule)
-  - The Progress Seminar: TBD (contact: Joachim Bruneau-Queyreix & Thomas Degueule)
+  - The SeD Seminar: every other month (contact: Thomas Degueule & Patricia Thébault)
 
 ## Tools
   - GitHub: [labri-progress](https://github.com/labri-progress) (contact: Thomas Degueule)
   - Bibliography management: [labri-progress](https://www.zotero.org/groups/121453/labri-progress) on [Zotero](https://www.zotero.org/) (contact: Jean-Rémy Falleri)
-
-## Useful resources
-  - [Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice), by Diomidis Spinellis
