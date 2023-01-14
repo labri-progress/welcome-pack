@@ -1,7 +1,7 @@
 # Progress' Welcome Pack
 
 ## Communication
-  - Mailing list: [labri.progress-all@diff.u-bordeaux.fr](labri.progress-all@diff.u-bordeaux.fr) (contact: Laurent Réveillère)
+  - Mailing list: [labri.progress-all@diff.u-bordeaux.fr](labri.progress-all@diff.u-bordeaux.fr) et [labri.progress-p@diff.u-bordeaux.fr](labri.progress-p@diff.u-bordeaux.fr)(contact: Laurent Réveillère)
   - Slack: [https://labri-progress.slack.com](https://labri-progress.slack.com) (contact: Laurent Réveillère)
   - Shared calendar: [ProgResS](https://calendar.google.com/calendar/embed?src=aeo034t8qiasa56vkpfvjd73b8%40group.calendar.google.com&ctz=Europe%2FParis) (contact: Thomas Degueule)
   - LaBRI's communication: [Rocket.Chat](https://rocket.labri.fr) (contact: Jean-Rémy Falleri)
