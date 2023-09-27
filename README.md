@@ -7,7 +7,7 @@
   - LaBRI's communication: [Rocket.Chat](https://rocket.labri.fr) (contact: Jean-Rémy Falleri)
 
 ## Events
-  - The Progress Coffee: every other Thursday, 13:15-13:45 (contact: Thomas Degueule)
+  - The Progress Coffee: first and third Tuesday of each month, 1pm--2pm (contact: Thomas Degueule)
   - The SeD Seminar: every other month (contact: Thomas Degueule & Patricia Thébault)
 
 ## Tools
