@@ -15,3 +15,4 @@
 ## Tools
   - GitHub: [labri-progress](https://github.com/labri-progress) (contact: Thomas Degueule)
   - Bibliography management: [labri-progress](https://www.zotero.org/groups/121453/labri-progress) on [Zotero](https://www.zotero.org/) (contact: Thomas Degueule)
+  - Overleaf (contact: Laurent Réveillère)
