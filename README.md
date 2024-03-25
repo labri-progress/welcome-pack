@@ -1,7 +1,7 @@
 # Progress' Welcome Pack
 
 ## Communication
-  - Mailing list: [Tous les membres](mailto:labri.progress-all@diff.u-bordeaux.fr) et [Permanents](mailto:labri.progress-p@diff.u-bordeaux.fr)(contact: Laurent Réveillère)
+  - Mailing lists: [Tous les membres](mailto:labri.progress-all@diff.u-bordeaux.fr) et [Permanents](mailto:labri.progress-p@diff.u-bordeaux.fr) (contact: Laurent Réveillère)
   - Slack: [https://labri-progress.slack.com](https://labri-progress.slack.com) (contact: Laurent Réveillère)
   - Shared calendars
     - [ProgResS group](https://calendar.google.com/calendar/embed?src=aeo034t8qiasa56vkpfvjd73b8%40group.calendar.google.com&ctz=Europe%2FParis) (contact: Thomas Degueule)
@@ -14,4 +14,4 @@
 
 ## Tools
   - GitHub: [labri-progress](https://github.com/labri-progress) (contact: Thomas Degueule)
-  - Bibliography management: [labri-progress](https://www.zotero.org/groups/121453/labri-progress) on [Zotero](https://www.zotero.org/) (contact: Jean-Rémy Falleri)
+  - Bibliography management: [labri-progress](https://www.zotero.org/groups/121453/labri-progress) on [Zotero](https://www.zotero.org/) (contact: Thomas Degueule)
