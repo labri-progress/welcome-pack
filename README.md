@@ -1,10 +1,10 @@
 # Progress' Welcome Pack
 
 ## Communication
-  - Mailing lists: [Tous les membres](mailto:labri.progress@diff.u-bordeaux.fr) et [Permanents](mailto:labri.progress-p@diff.u-bordeaux.fr) (contact: Laurent Réveillère)
+  - Mailing lists: [All members](mailto:labri.progress@diff.u-bordeaux.fr), [Permanent staff](mailto:labri.progress-p@diff.u-bordeaux.fr), [Progress Coffee](mailto:labri.progress-coffee@diff.u-bordeaux.fr) (contact: Laurent Réveillère)
   - Slack: [https://labri-progress.slack.com](https://labri-progress.slack.com) (contact: Laurent Réveillère)
   - Shared calendars
-    - [ProgResS group](https://calendar.google.com/calendar/embed?src=aeo034t8qiasa56vkpfvjd73b8%40group.calendar.google.com&ctz=Europe%2FParis) (contact: Thomas Degueule)
+    - [Progress Team](https://calendar.google.com/calendar/embed?src=aeo034t8qiasa56vkpfvjd73b8%40group.calendar.google.com&ctz=Europe%2FParis) (contact: Thomas Degueule)
     - [SeD department](https://www.labri.fr/events/199/ical) (contact: Thomas Degueule)
   - LaBRI's internal chat: [Rocket.Chat](https://rocket.labri.fr) (contact: Jean-Rémy Falleri)
   - The [AFODIB](https://afodib.labri.fr/)'s Discord server: [https://discord.gg/ZPWHpHkqXe](https://discord.gg/ZPWHpHkqXe)
